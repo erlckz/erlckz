@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="" target="_blank">
-      <img src="https://cdn.discordapp.com/attachments/1068273441540689992/1264941481760788551/Banner_Application.png?ex=669fb40e&is=669e628e&hm=ea56a040db6cea892f66302bd4fdd4059da5adc8245f4c3662aebebd67277feb&" alt="Project Banner">
+      <img src="https://cdn.discordapp.com/attachments/1068273441540689992/1266005512584167487/Banner_Application.png?ex=66a39303&is=66a24183&hm=b3e3f17bdf29136a467c81e69945529e8829a2cd437fd4612f4bd5bdd8a0db61&" alt="Project Banner">
     </a>
   <br />
 
@@ -17,6 +17,6 @@
   <h3 align="center">About-me</h3>
 
    <div align="center">
-     Hello, I am <a href="https://erlckz.com/" target="_blank"><b>Rlckz</b></a> A freelance fullstack developer who has just entered the job market
+     Hello, I am <a href="https://erlckz.com/" target="_blank"><b>Erlckz</b></a> A freelance fullstack developer who has just entered the job market
     </div>
 </div>
