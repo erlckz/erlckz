@@ -1,7 +1,6 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
-      <img src="https://cdn.discordapp.com/attachments/1068273441540689992/1266005512584167487/Banner_Application.png?ex=66a39303&is=66a24183&hm=b3e3f17bdf29136a467c81e69945529e8829a2cd437fd4612f4bd5bdd8a0db61&" alt="Project Banner">
+    <a href="" target="_blank">     
     </a>
   <br />
 
