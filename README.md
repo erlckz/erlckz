@@ -39,7 +39,7 @@ Projetos em destaque: [App](https://nubank.com.br/)
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [Instagram](https://www.instagram.com/erlckz/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
 
 
 
@@ -79,4 +79,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para
         alt="Github Stats"
       />
     </td>
+   </tr>
 
