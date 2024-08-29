@@ -51,7 +51,7 @@ Por favor, encontre-me no [Instagram](https://www.instagram.com/erlckz/) para um
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
-<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274864352964644875/Vector.png?ex=66c3cd73&is=66c27bf3&hm=670c41d36cd71d05f3bd65ee0a843baba85ba676b6b86de31ccd70f521ef7ad2&" alt="NextJs"/></code>
+<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274864352964644875/Vector.png?ex=66d1a533&is=66d053b3&hm=6c9773c6eb1c600fab863c6b46ed96c3489ee139ee2aba01096c069c004ffeb4&" alt="NextJs"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
 
@@ -60,8 +60,8 @@ Por favor, encontre-me no [Instagram](https://www.instagram.com/erlckz/) para um
 
 ###  Minhas Ferramentas
 
-<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274866854522916937/Mask_group.png?ex=66c3cfc7&is=66c27e47&hm=00d8f9acece044f2b6ee4ad8b79a15300d0863c7e74ce9b7327bf03383d83fc2&" alt="Vscode"/></code>
-<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274866855781072959/Group_8.png?ex=66c3cfc8&is=66c27e48&hm=9207083b1ef32ede9b5e03858e898f4b407a97d98312ee689cfdfd8790265af0&" alt="vStudio"/></code>
+<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274866854522916937/Mask_group.png?ex=66d1a787&is=66d05607&hm=ce7a5e0e000da7af2b958d106d9428103c381a3cc5bc0f973bbc40e387d03a4d&" alt="Vscode"/></code>
+<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274866855781072959/Group_8.png?ex=66d1a788&is=66d05608&hm=18e200de023ce119f74ca2638c613289484956eac21460f0de09e8bfc0c24ae9&" alt="vStudio"/></code>
 
 
 
