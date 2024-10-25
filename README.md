@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Erlckz&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Working In Person Projects<br/>Developer Full-Stack</p>
+<p>Working In...<br/>Developer Full-Stack</p>
 
 
 
