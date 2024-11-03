@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Erlckz&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Working In<br/>Developer Full-Stack</p>
+<p>Trabalhando em Sources Enterprise<br/>Desenvolvedor Front-End</p>
 
 
 
@@ -14,7 +14,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Sources" src="[https://cdn.discordapp.com/attachments/1274864327270072432/1302455723174789120/Logo-1.png?ex=67282dea&is=6726dc6a&hm=a3232858bbc56c2b586cd856b10974cd8a502eea23774731fe1fb2ccb648e9e0&]"/>](https://www.sources.com/)
+[<img align="left" height="94px" width="94px" alt="Sources" src="/assets/Logo.png"/>](https://www.sources.com/)
 
 **Chief Executive Officer** \
 [**Sources**](https://www.sources.com/) • Full-time \
@@ -35,7 +35,7 @@ Por favor, encontre-me no [Instagram](https://www.instagram.com/erlckz/) para um
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
-<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274864352964644875/Vector.png?ex=66e6bd33&is=66e56bb3&hm=1b5677e953fae31d4604e3bf5fa0c34cc56ddfaadfec912c785eba03c69a202e&" alt="NextJs"/></code>
+<code><img height="32" src="assets/Mask group.png" alt="NextJs"/></code>
 <code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
 
@@ -44,8 +44,8 @@ Por favor, encontre-me no [Instagram](https://www.instagram.com/erlckz/) para um
 
 ###  Minhas Ferramentas
 
-<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274866854522916937/Mask_group.png?ex=66e6bf87&is=66e56e07&hm=4221c87920894726c9a7ddf4d5f0993705780d4e4f2aeb051d5ce42e328386f5&" alt="Vscode"/></code>
-<code><img height="32" src="https://cdn.discordapp.com/attachments/1274864327270072432/1274866855781072959/Group_8.png?ex=66d1a788&is=66d05608&hm=18e200de023ce119f74ca2638c613289484956eac21460f0de09e8bfc0c24ae9&" alt="vStudio"/></code>
+<code><img height="32" src="assets/Group 65.png" alt="Vscode"/></code>
+<code><img height="32" src="assets/Group 66.png" alt="vStudio"/></code>
 
 
 
