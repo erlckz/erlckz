@@ -14,7 +14,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Sources" src="[https://cdn.discordapp.com/attachments/1068273441540689992/1299502698235953213/Logo.png?ex=671d6fb2&is=671c1e32&hm=a823ad998efadb77aa97d1372476b6683ae986226051637d2f9295fb555f40ad&]"/>](https://www.sources.com/)
+[<img align="left" height="94px" width="94px" alt="Sources" src="[https://cdn.discordapp.com/attachments/1274864327270072432/1302455723174789120/Logo-1.png?ex=67282dea&is=6726dc6a&hm=a3232858bbc56c2b586cd856b10974cd8a502eea23774731fe1fb2ccb648e9e0&]"/>](https://www.sources.com/)
 
 **Chief Executive Officer** \
 [**Sources**](https://www.sources.com/) • Full-time \
