@@ -4,13 +4,13 @@
 
 
 
-<p>Trabalhando em Sources Enterprise<br/>Desenvolvedor Front-End</p>
+###### <p>Trabalhando em Sources Enterprise<br/>Desenvolvedor Front-End</p>
 
 
 
 
 
-### Experiência de trabalho
+## Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -53,7 +53,7 @@ Por favor, encontre-me no [Instagram](https://www.instagram.com/erlckz/) para um
 
 
 
-###  GitHub Analytics
+##  GitHub Analytics
 
   <tr>
     <td>
