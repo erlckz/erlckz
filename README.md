@@ -1,67 +1,47 @@
 
 
-### Olá, meu nome é Erik Jhonatas!
 
+<div align="center">
+  
+  ### Hello
+  
+<div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erlckz&layout=compact&theme=dark&hide_border=true">
+    <img height="150em" src="https://lanyard.cnrad.dev/api/821036279730798602?borderRadius=5px&hideTimestamp=false&hideUser=false">
+</div>
 
+****My name is Erik Jhonatas, I am an advanced front-end developer****
 
-###### <p>Trabalhando em Sources Enterprise<br/>Desenvolvedor Front-End</p>
+### Working On
+[Sources Enterprise](https://www.instagram.com/sources.ofc/)
 
-
-
-
-
-## Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Sources" src="/assets/Logo.png"/>](https://www.sources.com/)
-
-**Chief Executive Officer** \
-[**Sources**](https://www.sources.com/) • Full-time \
-Linguagens & Tecnologias: `Typescript`, `Tailwind Css`, `Next.Js`, `JavaScript`, `React.Js`, `Node.Js`,\
-Projetos em destaque: [Applications](https://www.sources.com/), [Softwares](<https://www.sources.com/>)
-<br/>
-<br/>
-
-Por favor, encontre-me no [Instagram](https://www.instagram.com/erlckz/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-
-
-
-
-###  Minhas Skills
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue"/></code>
-<code><img height="32" src="assets/Mask group.png" alt="NextJs"/></code>
-<code><img height="38" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-
-
-
-
-
-###  Minhas Ferramentas
+###  My Skills
+<code><img height="32" src="/assets/" alt="Typescript"/></code>
+<code><img height="32" src="/assets/" alt="Javascript"/></code>
+<code><img height="32" src="/assets/" alt="Nodejs"/></code>
+<code><img height="32" src="/assets/" alt="Vue"/></code>
+<code><img height="32" src="/assets/" alt="NextJs"/></code>
+<code><img height="38" src="/assets/" alt="React"/></code>
 
 <code><img height="32" src="assets/Group 65.png" alt="Vscode"/></code>
 <code><img height="32" src="assets/Group 66.png" alt="vStudio"/></code>
 
 
+**Please find me on [Instagram](https://www.instagram.com/erlckz/) for a more detailed description of my work experience, education, and certification.**
 
 
 
+### Work experience
 
+****In the overview below you will find my most recent work experience:****
 
-##  GitHub Analytics
+[<img align="Center" height="94px" width="94px" alt="Sources" src="/assets/Logo.png"/>](https://www.sources.com/)
 
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=erlckz&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-   </tr>
+**Chief Executive Officer** \
+[**Sources**](https://www.sources.com/) • Full-time \
+Languages: `Typescript`, `Tailwind Css`, `React.Js`,\
+Featured Projects: [Applications](https://www.sources.com/), [Softwares](<https://www.sources.com/>)
+<br/>
+<br/>
 
+</div>
