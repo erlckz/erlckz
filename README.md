@@ -37,7 +37,7 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 
 ****In the overview below you will find my most recent work experience:****
 
-[<img align="Center" height="94px" width="94px" alt="Sources" src="/assets/Logo.png"/>](https://www.sources.com/)
+[<img align="Center" height="94px" width="94px" alt="Sources" src="/assets/Logo-1.png"/>](https://www.sources.com/)
 
 **Chief Executive Officer** \
 [**Sources**](https://www.sources.com/) • Full-time \
