@@ -16,15 +16,20 @@
 [Sources Enterprise](https://www.instagram.com/sources.ofc/)
 
 ###  My Skills
-<code><img height="32" src="/assets/" alt="Typescript"/></code>
-<code><img height="32" src="/assets/" alt="Javascript"/></code>
-<code><img height="32" src="/assets/" alt="Nodejs"/></code>
-<code><img height="32" src="/assets/" alt="Vue"/></code>
-<code><img height="32" src="/assets/" alt="NextJs"/></code>
-<code><img height="38" src="/assets/" alt="React"/></code>
+<code><img height="32" width="32" src="/assets/typescript.png" alt="Typescript"/></code>
+<code><img height="32" width="32" src="/assets/javascript.png" alt="Javascript"/></code>
+<code><img height="32" width="32" src="/assets/node.png" alt="Nodejs"/></code>
+<code><img height="32" width="32" src="/assets/vue.png" alt="Vue"/></code>
+<code><img height="32" width="32" src="/assets/next.png" alt="NextJs"/></code>
+<code><img height="32" width="32" src="/assets/react.png" alt="React"/></code>
+<code><img height="32" width="32" src="/assets/npm.png" alt="NPM"/></code>
+<code><img height="32" width="32" src="/assets/tailwind.png" alt="Tailwind"/></code>
+<code><img height="32" width="32" src="/assets/firebase.png" alt="Firebase"/></code>
+<code><img height="32" width="32" src="/assets/sass.png" alt="Sass"/></code>
 
-<code><img height="32" src="assets/Group 65.png" alt="Vscode"/></code>
-<code><img height="32" src="assets/Group 66.png" alt="vStudio"/></code>
+<code><img height="32" src="assets/vscode.png" alt="Vscode"/></code>
+<code><img height="32" src="assets/figma.png" alt="Figma"/></code>
+<code><img height="32" src="assets/photoshop.png" alt="Photoshop"/></code>
 
 
 **Please find me on [Instagram](https://www.instagram.com/erlckz/) for a more detailed description of my work experience, education, and certification.**
