@@ -10,10 +10,7 @@
     <img height="150em" src="https://lanyard.cnrad.dev/api/821036279730798602?borderRadius=5px&hideTimestamp=false&hideUser=false">
 </div>
 
-****My name is Erik Jhonatas, I am an advanced front-end developer****
-
-### Working On
-[Sources Enterprise](https://www.instagram.com/sources.ofc/)
+My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 
 ###  My Skills
 <code><img height="32" width="32" src="/assets/typescript.png" alt="Typescript"/></code>
@@ -36,7 +33,7 @@
 
 
 
-### Work experience
+### Work Experience
 
 ****In the overview below you will find my most recent work experience:****
 
