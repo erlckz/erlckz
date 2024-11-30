@@ -30,7 +30,7 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 ```text
 From: 16 July 2020 - To: 28 November 2024
 
-Total Time: 1,843 hrs 40 mins
+Total Time: 174 hrs 41 mins
 
 TypeScript               68 hrs 15 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.22 %
 JavaScript                 31 hrs 18 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.99 %
