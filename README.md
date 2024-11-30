@@ -28,7 +28,7 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 
 
 ```text
-From: 16 July 2020 - To: 28 November 2024
+From: 16 July 2022 - To: 28 November 2024
 
 Total Time: 174 hrs 41 mins
 
