@@ -25,17 +25,18 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 
 
 
- Last Updated on 29/11/2024 12:47:33 UTC
+ Last Updated on 24/05/2025 18:07:13 UTC
 <!--END_SECTION:waka-->
 
 
 ```text
-From: 16 July 2022 - To: 28 November 2024
+From: 16 July 2022 - To: 24 May 2025
 
-Total Time: 174 hrs 41 mins
+Total Time: 589 hrs 30 mins
 
 TypeScript               68 hrs 15 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.22 %
 JavaScript                 31 hrs 18 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.99 %
+C++                 31 hrs 18 mins ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.99 %
 React             25 hrs 19 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.58 %
 Tailwind CSS                  14 hrs 32 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.79 %
 Vue               8 hrs 17 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.63 %
