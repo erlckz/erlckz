@@ -7,7 +7,7 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 <code><img height="32" width="32" src="/assets/typescript.png" alt="Typescript"/></code>
 <code><img height="32" width="32" src="/assets/javascript.png" alt="Javascript"/></code>
 <code><img height="32" width="32" src="/assets/node.png" alt="Nodejs"/></code>
-<code><img height="32" src="assets/c++.png" alt="C++"/></code>
+<code><img height="32" src="assets/C++.png" alt="C++"/></code>
 <code><img height="32" width="32" src="/assets/vue.png" alt="Vue"/></code>
 <code><img height="32" width="32" src="/assets/next.png" alt="NextJs"/></code>
 <code><img height="32" width="32" src="/assets/react.png" alt="React"/></code>
@@ -15,7 +15,7 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 <code><img height="32" width="32" src="/assets/tailwind.png" alt="Tailwind"/></code>
 <code><img height="32" width="32" src="/assets/firebase.png" alt="Firebase"/></code>
 <code><img height="32" width="32" src="/assets/sass.png" alt="Sass"/></code>
-<code><img height="32" width="32" src="/assets/unreal.png" alt="Unreal"/></code>
+<code><img height="32" width="32" src="/assets/unreal5.png" alt="Unreal"/></code>
 <code><img height="32" src="assets/vscode.png" alt="Vscode"/></code>
 <code><img height="32" src="assets/figma.png" alt="Figma"/></code>
 <code><img height="32" src="assets/photoshop.png" alt="Photoshop"/></code>
