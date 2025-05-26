@@ -1,6 +1,6 @@
 <div align="center">
   
-My name is ****Erik Jhonatas****, I am an advanced ****front-end developer**** and ****C++ senior****
+My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
   
 ###  My Skills
 
