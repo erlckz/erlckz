@@ -7,18 +7,9 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 <code><img height="32" width="32" src="/assets/typescript.png" alt="Typescript"/></code>
 <code><img height="32" width="32" src="/assets/javascript.png" alt="Javascript"/></code>
 <code><img height="32" width="32" src="/assets/node.png" alt="Nodejs"/></code>
-<code><img height="32" src="assets/C++.png" alt="C++"/></code>
-<code><img height="32" width="32" src="/assets/vue.png" alt="Vue"/></code>
 <code><img height="32" width="32" src="/assets/next.png" alt="NextJs"/></code>
 <code><img height="32" width="32" src="/assets/react.png" alt="React"/></code>
-<code><img height="32" width="32" src="/assets/npm.png" alt="NPM"/></code>
-<code><img height="32" width="32" src="/assets/tailwind.png" alt="Tailwind"/></code>
-<code><img height="32" width="32" src="/assets/firebase.png" alt="Firebase"/></code>
-<code><img height="32" width="32" src="/assets/sass.png" alt="Sass"/></code>
-<code><img height="32" width="32" src="/assets/unreal5.png" alt="Unreal"/></code>
-<code><img height="32" src="assets/vscode.png" alt="Vscode"/></code>
 <code><img height="32" src="assets/figma.png" alt="Figma"/></code>
-<code><img height="32" src="assets/photoshop.png" alt="Photoshop"/></code>
 </div>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erlckz&theme=github-dark-dimmed&custom_title=Me%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -30,15 +21,18 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 
 
 ```text
-From: 16 July 2022 - To: 24 May 2025
+From: 16 July 2021 - To: 28 Nov 2025
 
-Total Time: 589 hrs 30 mins
+Total Time: 9,739 hrs 08 mins
 
-TypeScript                  218 hrs 32 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 37.07%
-JavaScript           182 hrs 52 mins ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 31.02%
-React           98 hrs 15 mins  ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 16.67%
-C++                65 hrs 19 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 11.08%
-Next JS              24 hrs 32 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4.16%
+TypeScript            2,942 hrs 12 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 34.87%
+JavaScript            2,463 hrs 58 mins ⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 29.20%
+Electron              1,342 hrs 11 mins ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 15.89%
+React                 1,128 hrs 49 mins ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 13.36%
+Next.js                 782 hrs 27 mins ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 9.26%
+Figma                   694 hrs 55 mins ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 8.22%
+Node.js                 384 hrs 36 mins ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 4.56%
+
 ```
 
 </div>
