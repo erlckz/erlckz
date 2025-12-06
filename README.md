@@ -5,7 +5,7 @@ My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
 ###  My Skills
 <code><img height="16" width="16" src="/assets/typescript.png" alt="Typescript"/></code>
 <code><img height="16" width="16" src="/assets/javascript.png" alt="Javascript"/></code>
-<code><img height="16" width="16" src="/assets/node.png" alt="Nodejs"/></code>
+<code><img height="16" width="16" src="/assets/package-json.png" alt="Nodejs"/></code>
 <code><img height="16" width="16" src="/assets/next.png" alt="NextJs"/></code>
 <code><img height="16" width="16" src="/assets/react.png" alt="React"/></code>
 <code><img height="16" src="assets/figma.png" alt="Figma"/></code>
