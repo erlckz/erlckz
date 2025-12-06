@@ -3,13 +3,13 @@
 My name is ****Erik Jhonatas****, I am an advanced ****front-end developer****
   
 ###  My Skills
-
 <code><img height="32" width="32" src="/assets/typescript.png" alt="Typescript"/></code>
 <code><img height="32" width="32" src="/assets/javascript.png" alt="Javascript"/></code>
 <code><img height="32" width="32" src="/assets/node.png" alt="Nodejs"/></code>
 <code><img height="32" width="32" src="/assets/next.png" alt="NextJs"/></code>
 <code><img height="32" width="32" src="/assets/react.png" alt="React"/></code>
 <code><img height="32" src="assets/figma.png" alt="Figma"/></code>
+
 </div>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erlckz&theme=github-dark-dimmed&custom_title=Me%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
